@@ -1,0 +1,192 @@
+IronLantern Responsible Use License
+Version 1.0
+
+Copyright (c) 2026 bitGnome_7
+
+1. Definitions
+
+"Software" means the IronLantern software, source code, compiled binaries,
+documentation, assets, and associated files distributed under this License.
+
+"Licensor" means the copyright owner of the Software.
+
+"You" means any individual or legal entity exercising permissions granted
+under this License.
+
+
+2. Grant of License
+
+Subject to the terms of this License, the Licensor grants You a
+non-exclusive, worldwide, royalty-free license to:
+
+- use the Software;
+- study and inspect the source code;
+- modify the Software;
+- create derivative works;
+- reproduce the Software; and
+- redistribute the Software or modified versions of it,
+
+provided that Your use complies with the restrictions and conditions below.
+
+
+3. Authorized Purposes
+
+The Software is intended for legitimate defensive-security purposes,
+including:
+
+- malware analysis;
+- malware remediation;
+- incident response;
+- digital forensics;
+- defensive cybersecurity research;
+- security education and training;
+- development and testing in controlled laboratory environments;
+- protection of systems, networks, files, or devices;
+- analysis of systems You own; or
+- analysis of systems for which You have explicit authorization.
+
+Use is also permitted for other lawful purposes that do not violate
+Section 4 of this License.
+
+
+4. Prohibited Uses
+
+You may not use, modify, distribute, or incorporate the Software, or
+substantial portions of its functionality, for the purpose of knowingly
+facilitating:
+
+a. unauthorized access to computer systems, accounts, networks, or data;
+
+b. deployment, development, operation, or distribution of malware,
+   ransomware, destructive payloads, or other malicious software;
+
+c. unauthorized persistence on another person's computer or network;
+
+d. unauthorized destruction, encryption, corruption, alteration, or
+   deletion of another person's data;
+
+e. credential theft, data theft, unauthorized surveillance, or
+   unauthorized collection of information;
+
+f. evasion of security controls for the purpose of carrying out
+   unauthorized or malicious activity;
+
+g. unauthorized interference with the availability or operation of
+   computers, networks, or services; or
+
+h. any activity that is unlawful under applicable law.
+
+For clarity, security research involving malware, persistence,
+encryption, process manipulation, or related techniques remains permitted
+when performed on systems You own, in a controlled laboratory, or with
+explicit authorization.
+
+
+5. Redistribution and Modification
+
+You may redistribute the Software or derivative works provided that:
+
+a. this License is included with the distributed Software;
+
+b. existing copyright and attribution notices are retained;
+
+c. modified versions are clearly identified as modified;
+
+d. You do not represent a modified version as an official release of
+   IronLantern without permission from the Licensor; and
+
+e. the restrictions in Section 4 remain applicable to redistributed
+   copies and derivative works.
+
+
+6. Attribution
+
+Redistributions of the Software or substantial portions of its source code
+must retain the following attribution:
+
+    IronLantern
+    Copyright (c) 2026 [YOUR NAME]
+
+Reasonable references to IronLantern for compatibility, research,
+academic, or descriptive purposes are permitted.
+
+
+7. No Trademark License
+
+This License does not grant permission to use the IronLantern name,
+logo, trademarks, or branding to imply endorsement, sponsorship, or
+official association with the Licensor.
+
+Reasonable descriptive use is permitted.
+
+
+8. Termination
+
+Your rights under this License terminate automatically if You materially
+violate its terms.
+
+Upon termination, You must cease distribution and use of the Software
+that violates this License.
+
+Termination does not affect rights previously granted to compliant
+recipients of copies distributed before the violation.
+
+
+9. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY,
+RELIABILITY, OR FITNESS FOR ANY PARTICULAR SECURITY OR REMEDIATION TASK.
+
+YOU ARE SOLELY RESPONSIBLE FOR DETERMINING WHETHER THE SOFTWARE IS
+APPROPRIATE FOR YOUR ENVIRONMENT AND FOR BACKING UP DATA BEFORE USING IT.
+
+MALWARE REMEDIATION AND FILE RECOVERY MAY INVOLVE INHERENT RISKS,
+INCLUDING DATA LOSS, SYSTEM INSTABILITY, FALSE POSITIVES, OR FAILURE TO
+COMPLETELY REMOVE MALICIOUS SOFTWARE.
+
+
+10. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+LICENSOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE,
+MISUSE, INABILITY TO USE, OR DISTRIBUTION OF THE SOFTWARE.
+
+THIS INCLUDES, WITHOUT LIMITATION, LOSS OF DATA, LOSS OF PROFITS,
+BUSINESS INTERRUPTION, COMPUTER FAILURE, SECURITY INCIDENTS, OR DAMAGE
+TO COMPUTER SYSTEMS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+11. User Responsibility
+
+You are solely responsible for:
+
+- ensuring You have authorization to analyze or modify a system;
+- complying with applicable laws and regulations;
+- evaluating remediation actions before executing them;
+- maintaining appropriate backups;
+- reviewing modifications made to the Software; and
+- consequences arising from Your use of the Software.
+
+
+12. Contributions
+
+Unless otherwise agreed in writing, contributions intentionally submitted
+for inclusion in IronLantern may be incorporated into the project under
+this License.
+
+Contributors represent that they have the right to submit their
+contributions.
+
+
+13. Entire License
+
+This License constitutes the terms under which the Licensor grants
+permission to use, modify, and distribute the Software.
+
+No additional permission is granted beyond the rights explicitly
+described herein.
+
+END OF LICENSE

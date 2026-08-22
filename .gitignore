@@ -1,0 +1,95 @@
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# =========================
+# PyInstaller
+# =========================
+
+build/
+dist/
+*.spec
+
+# Keep a spec file only if you intentionally maintain one
+# !IronLantern.spec
+
+# =========================
+# IronLantern generated data
+# =========================
+
+Reports/
+Quarantine/
+Recovered/
+
+report_*.txt
+*.ilq
+
+# Quarantine metadata
+*.ilq.json
+
+# If metadata files are simply UUID.json files instead:
+# Do NOT globally ignore *.json unless all JSON files are generated.
+
+# =========================
+# Malware / analysis samples
+# =========================
+
+# Avoid accidentally committing executable samples
+*.exe
+*.dll
+*.sys
+*.scr
+*.com
+
+# Encrypted/recovery test material
+*.enc
+
+# =========================
+# Logs / temporary files
+# =========================
+
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+
+# =========================
+# IDE / editor
+# =========================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Windows
+# =========================
+
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# =========================
+# macOS
+# =========================
+
+.DS_Store
