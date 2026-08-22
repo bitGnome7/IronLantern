@@ -1,0 +1,1 @@
+pyinstaller --clean --onefile --console --name IronLantern --icon ".\IronLantern.ico" --manifest ".\IronLantern.manifest" ".\Ironlantern.py"

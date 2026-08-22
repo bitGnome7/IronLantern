@@ -25,7 +25,6 @@ htmlcov/
 
 build/
 dist/
-*.spec
 
 # Keep a spec file only if you intentionally maintain one
 # !IronLantern.spec
