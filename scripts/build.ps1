@@ -2,10 +2,12 @@ $ErrorActionPreference = "Stop"
 
 Write-Host "[#] Building IronLantern..."
 
-$ProjectRoot = Split-Path -Parent $MyInvocation.MyCommand.Path
+$ScriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
+$ProjectRoot = Split-Path -Parent $ScriptDir
+
 Set-Location $ProjectRoot
 
-$SpecFile = Join-Path $ProjectRoot "Iron lantern.spec"
+$SpecFile = Join-Path $ProjectRoot "packaging\IronLantern.spec"
 $BuildDir = Join-Path $ProjectRoot "build"
 $DistDir = Join-Path $ProjectRoot "dist"
 
@@ -24,7 +26,7 @@ if (Test-Path $DistDir) {
     Remove-Item $DistDir -Recurse -Force
 }
 
-Write-Host "[*] Running PyInstaller using Iron lantern.spec..."
+Write-Host "[*] Running PyInstaller using IronLantern.spec..."
 
 python -m PyInstaller --clean --noconfirm $SpecFile
 
